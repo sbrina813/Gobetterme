@@ -1,2 +1,8 @@
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "semantic/out/semantic.min.css";
 
+.better-me {
+	.head-icon img {
+		width: 100px;
+	}
+}

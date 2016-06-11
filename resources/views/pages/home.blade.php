@@ -1,5 +1,5 @@
 @extends('layout')
 
 @section('content')
-
-@stop
+	<h1>Go better me</h1>
+@endsection
